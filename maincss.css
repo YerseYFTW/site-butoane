@@ -1,0 +1,79 @@
+#button1 {
+	background:#cc0000;
+	border:none;
+	font-size: 55px;
+	padding: 20px 30px;
+	position: fixed;
+	left: -10px;
+	top:-0px;
+	
+}
+ #button1 a {
+	color:white;
+	text-decoration:none;
+}
+
+#button1:hover {
+	background:blue;
+}
+
+#button2 {
+	color:#000000;
+	position:fixed;
+	font-size: 50px;
+	padding: 20px 30px;
+	top:103px;
+	left: -15px;
+	border:none;
+	background:rgb(34, 99, 100);
+}
+#button2 a {
+	color:#000000;
+}
+
+#myCanvas {
+	width: 112px;
+	height: 97px;
+	left: 256px;
+	top: 103px;
+	border:none;
+	position: fixed;
+	background: green;
+}
+
+#menu {
+	height:60px;
+	width:60px;
+	position: relative;
+	border: none;
+	background-color: white;
+}
+
+#button3 {
+	background: none; 
+	border: none; 
+	top: 10;
+	left: 400px; 
+	position: fixed;
+}
+#button3:hover{
+	background: green;
+}
+
+#text{
+	position: fixed;
+	top: 200;
+	left: 0;
+}
+
+#hover{
+	position: fixed;
+	top: 220;
+	left: 0;
+}
+
+#hover2{
+	position: fixed;
+	top: 240;
+	left: 0;
+}
